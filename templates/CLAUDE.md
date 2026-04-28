@@ -34,8 +34,8 @@ Adjust these to match your actual folders.
 |---------------|----------------------------------|--------------------------------|
 | Daily note    | `{{DAILY_NOTE_PATTERN}}`         | `2026-04-28.md`                |
 | Meeting note  | `YYYY-MM-DD HHmm Title.md`       | `2026-04-28 0900 Sync.md`      |
-| Project note  | `Project Name - Subtopic.md`     | `TileBuddy - V1.4 Spec.md`     |
-| MOC           | `Topic MOC.md`                   | `AI Consulting MOC.md`         |
+| Project note  | `Project Name - Subtopic.md`     | `Onyx - V1 Spec.md`            |
+| MOC           | `Topic MOC.md`                   | `Research MOC.md`              |
 | Template      | `Topic Template.md`              | `Daily Note Template.md`       |
 
 ---

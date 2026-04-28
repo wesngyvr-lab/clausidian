@@ -89,9 +89,9 @@ Claude reads your template, substitutes today's date, creates the file in `Daily
 
 A Map of Content is an index note that wikilinks to everything related to a project — replacing rigid folder hierarchies with a flat, navigable graph.
 
-> "Create a new MOC for the TileBuddy project. Link to the spec, meeting notes from April 2026, and any notes tagged #tilebuddy."
+> "Create a new MOC for the Onyx project. Link to the spec, meeting notes from April 2026, and any notes tagged #onyx."
 
-Claude searches for relevant files, creates a `Categories/TileBuddy MOC.md`, and populates it with grouped wikilinks.
+Claude searches for relevant files, creates a `Categories/Onyx MOC.md`, and populates it with grouped wikilinks.
 
 ### Refactoring tag taxonomy
 

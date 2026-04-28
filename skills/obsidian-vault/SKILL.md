@@ -16,7 +16,7 @@ Internal links use double brackets: `[[Note Title]]`. The display text can be pi
 
 ```
 [[Daily Notes List]]
-[[Projects/TileBuddy|TileBuddy project]]
+[[Projects/Onyx|Onyx project]]
 ```
 
 **Do not convert wikilinks to standard Markdown links** (`[text](path.md)`) unless the user explicitly asks. Obsidian resolves wikilinks relative to the vault root; standard links break portability.

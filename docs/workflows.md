@@ -24,7 +24,7 @@ Claude will:
 A Map of Content (MOC) is an index note that links to all notes related to a topic. It replaces folder-based organization with a flat, wikilink-based graph.
 
 **Prompt:**
-> "Create a new MOC for my TileBuddy project. Link to the spec, PRD, meeting notes from April 2026, and any notes tagged #tilebuddy."
+> "Create a new MOC for my Onyx project. Link to the spec, PRD, meeting notes from April 2026, and any notes tagged #onyx."
 
 Claude will:
 1. Search your vault for relevant files using the patterns you describe
