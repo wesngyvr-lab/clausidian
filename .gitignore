@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Node (if any tooling is added later)
+node_modules/
+
+# Obsidian workspace state (if vault is nested here)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+
+# Editor
+.vscode/
+.idea/
